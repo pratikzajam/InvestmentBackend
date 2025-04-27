@@ -1,2 +1,0 @@
-# InvestmentBackend
-InvestmentBackend
